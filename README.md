@@ -34,5 +34,5 @@ Each object has a title, image, and a lower text for a name. This example is mad
 <h3>Bugs</h3>
 <dl>
   <dt>Animation</dt>
-  <dd>From what I noticed, it seems like when the object loops back (last object back to the first one), the .slick-center class selection breaks for ~300ms by selecting a wrong object. It fixes itself and refocuses to the correct object after that small time period. This slickjs bug causes my carousel to have a weird animation when it transitions from the last element back to the first. Please let me know if you have/found a fix for this.</dd>
+  <dd>From what I noticed, it seems like when the object loops back (last object back to the first one), the .slick-center class selection breaks for ~300ms by selecting a wrong object. It fixes itself and refocuses to the correct object after that small time interval. This bug causes the carousel to have a weird animation when it transitions from the last element back to the first. Please let me know if you have/found a fix for this.</dd>
 </dl>
