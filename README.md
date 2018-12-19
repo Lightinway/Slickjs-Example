@@ -3,6 +3,7 @@
 Slickjs Carousel is created by Ken Wheeler, the complete slick documentation can be found <a href="http://kenwheeler.github.io/slick/" target="_blank" >here</a>.
 <br>
 The Slickjs version I used in this example is <strong>1.8.1</strong>.
+<br>
 For your viewing convenience, I put my CSS and JS all in the HTML file.
 
 <img src="https://github.com/Lightinway/Slickjs-Example/blob/master/img/Slick.png" />
